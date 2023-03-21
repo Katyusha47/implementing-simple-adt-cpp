@@ -11,3 +11,6 @@ If you find any issues with this program, feel free to submit a pull request or 
 
 # Acknowledgements
 This program was created based on an exercise in the book "Object-Oriented Programming in C++" by Robert Lafore.
+
+# Disclaimer
+This things made for educational purpose. The Author made this for his assigment.
