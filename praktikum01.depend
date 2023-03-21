@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679231180 source:c:\cpptest\praktikum01\clock.cpp
+	<iostream>
+	"clock.h"
+
+1679232355 c:\cpptest\praktikum01\clock.h
+
+1679232298 source:c:\cpptest\praktikum01\main.cpp
+	<iostream>
+	"clock.h"
+
